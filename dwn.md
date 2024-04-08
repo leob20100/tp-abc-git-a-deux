@@ -18,3 +18,7 @@ web et web mobile. Il réalise la partie visuelle de l’application dans un pre
 manière statique et en la rendant adaptable au contexte puis dans un deuxième temps capable
 d’interagir avec l’utilisateur de manière dynamique.
 
+# Durée
+
+2660 heures (soit 19 mois) dont 860 heures
+de Périodes d’Applications en Entreprises
