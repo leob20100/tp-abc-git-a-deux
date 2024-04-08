@@ -30,3 +30,24 @@ de sécurité
 - Concevoir et développer une application multicouche répartie en intégrant les 
 recommandations de sécurité
 - Utiliser l'anglais dans son activité professionnelle
+
+# Fiche ROME
+
+https://www.crm68.fr/wp-content/uploads/2024/03/CDA.pdf
+
+# Métiers accessibles
+
+Concepteur développeur
+
+d'applications informatiques
+
+Développeur d'applications
+
+Développeur web
+
+Développeur d'applications mobiles
+
+
+
+
+
