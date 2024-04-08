@@ -1,4 +1,4 @@
-Formation DWWM
+FORMATION DWWM
 
 La formation DWWM est de niveau 5
 
