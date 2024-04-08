@@ -22,3 +22,11 @@ d’interagir avec l’utilisateur de manière dynamique.
 
 2660 heures (soit 19 mois) dont 860 heures
 de Périodes d’Applications en Entreprises
+
+# Objectifs
+
+- Développer la partie front-end d'une application web ou web mobile en intégrant les
+recommandations de sécurité
+- Développer la partie back-end application web ou web mobile en intégrant les
+recommandations de sécurité
+- Utiliser l'anglais dans son activité professionnelle
