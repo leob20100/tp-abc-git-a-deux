@@ -30,3 +30,13 @@ recommandations de sécurité
 - Développer la partie back-end application web ou web mobile en intégrant les
 recommandations de sécurité
 - Utiliser l'anglais dans son activité professionnelle
+
+# Fiche ROME
+
+https://www.crm68.fr/wp-content/uploads/2024/03/DWWM.pdf
+
+# LISTE DES METIERS
+
+Développeur web - Développeur web front-end - Développeur web back-end - Developpeur
+web full-stack - Intégrateur web - Développeur web mobile - Développemeur d'applications
+web distribuées
