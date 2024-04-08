@@ -15,3 +15,8 @@ de type desktop ou web, il élabore une maquette avec les enchaînements d’éc
 valider à l’utilisateur. Il code les formulaires de saisie et de résultats, ainsi que les états, en 
 programmant de manière sécurisée les événements utilisateur et en accédant aux données 
 stockées dans une base de données.
+
+# Durée
+
+2660 heures (soit 19 mois) dont 560 heures
+de Périodes d’Applications en Entreprises
